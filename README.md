@@ -1,3 +1,6 @@
+![Diagram](Assets/Hate%20Speech%20Detection%20Algorithm.png)
+
+
 # Hate Speech Detection Model
 
 This repository contains a deep learning model designed to classify text, specifically tweets, into three categories: hate speech, offensive language, and neutral text.
